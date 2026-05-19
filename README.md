@@ -1,6 +1,7 @@
 # basic_computing_team
 대학교 1학년 1학기 컴퓨팅 기초 조별과제
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leejunsu0530/whisperx-gui-colab/blob/main/WX_simpleGUI.ipynb)
 
 데이터셋: 
 ```
